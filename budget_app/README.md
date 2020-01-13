@@ -8,6 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+![image](https://github.com/muysamdy/flutter_ui/blob/master/budget_app/Screenshot_1578878887.png)
+![image](https://github.com/muysamdy/flutter_ui/blob/master/budget_app/Screenshot_1578878906.png)
+
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
